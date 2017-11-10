@@ -2,5 +2,5 @@
   "extends": [
     "config:js-lib"
   ],
-  "processFork": true
+  "renovateFork": true
 }
